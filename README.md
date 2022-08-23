@@ -1,2 +1,2 @@
 # My-Knowledge
-Web Scraping flipcart website using python for scraping laptop details and store data into a SQLite database
+Web Scraping flipcart website using python. Scraping laptop details and stored scraped data into a SQLite database
