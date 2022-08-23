@@ -1,2 +1,2 @@
 # My-Knowledge
-SMS Spam Classifier using count vectorizer and BERT model. Comparing the accuracy of both method
+SMS Spam Classifier using count vectorizer and Transformer model (BERT). Comparing the accuracy of both method
